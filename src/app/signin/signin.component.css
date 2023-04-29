@@ -1,0 +1,34 @@
+form{
+    height: max-content;
+    
+  
+}
+label{
+    color:rgb(5, 39, 142);
+   font: bolder;
+}
+
+.btn-login{
+    background-color: rgb(250, 139, 28);
+    color: aliceblue;
+    border-radius: 25px;
+    
+}
+input{
+    border-radius: 10px;
+   
+    background-color: rgb(247, 248, 248);
+
+}
+a{
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(232, 118, 4);;
+}
+.yel{
+    color: rgb(232, 118, 4);;
+
+}
+input:hover{
+    border: 1px  solid rgb(232, 118, 4);
+    }
